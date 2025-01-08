@@ -9,14 +9,23 @@ Valor agregado: Nivelar el campo de juego considerando el acceso a los recursos.
 ## Diccionario:
 
 **LMIC:** países de ingresos bajos a medios (LMIC, por las siglas en inglés de Low to medium income countries)
+
 **HIC:** países de ingresos altos (HIC, por las siglas en inglés de High income countries)
+
 **ROI:** retorno de la inversión (ROI, por las siglas en inglés de return on investment)
+
 **CC:** licencia Creative Commons
+
 **CC-BY:** licencia Creative Commons, con atribución
+
 **CC BY-NC:** licencia Creative Commons, con atribución - no comercial
+
 **DOI:** identificador de objeto digital (DOI, por las siglas en inglés de digital object identifier)
+
 **RFA:** convocatoria de solicitudes (RFA, por las siglas en inglés de Request for Application). También nombrado como convocatoria de propuestas (CFP, por las siglas en inglés de Call for Proposal).
+
 **DEI:** Diversidad, Equidad e Inlcusión (DEI, por las siglas en inglés de Diversity, Equity, Inclusion). También se puede encontrar como IDEA (donde la A es por accesibilidad), EDI, y JEDI (donde la J es por Justicia).
+
 **Canales informales de comunicación:** similar al contenido oculto, consiste en la información que comparte un grupo reducido y que no es accesible para la población en general.
 
 ## Participantes
