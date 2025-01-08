@@ -195,4 +195,5 @@ Al final de este módulo tus estudiantes deberían poder:
 
 ## Trabajo futuro
 Estos materiales están disponibles bajo una licencia [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/).
+
 Este projecto será desarrollado luego del taller ofrecido por OLS en [este repositorio](https://github.com/open-life-science/knowhow).
