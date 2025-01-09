@@ -1,5 +1,5 @@
-# Saber hacer
-El plan de estudios oculto para ayudarte a comenzar a aplicar a una solicitud de financiamiento a través de subsidios.
+# Acceso a financiación
+El plan de estudios, sobre conocimientos habitualmente ocultos, para ayudarte a comenzar a pedir financiamiento a través de subsidios.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este trabajo está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
 
