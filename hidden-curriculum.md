@@ -1,4 +1,4 @@
-# Knowhow: everything you wanted to know about applying for grants but didn't ask
+# Everything you wanted to know about applying for grants but didn't ask
 
 ## Project description
 **Description**: Collaboratively creating a curriculum and coaching program to ensure that "hidden curriculum" is less hidden, so that funders and potential grantees from different income levels can engage fairly.
@@ -197,5 +197,3 @@ At the end of this module, learners should be able to:
 ## Further work
 
 These materials are available under a [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/) license.
-
-This project will be developed after the workshop by OLS in [this repository](https://github.com/open-life-science/knowhow).
