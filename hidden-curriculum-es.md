@@ -1,4 +1,4 @@
-# Saber hacer: todo lo que querías saber sobre cómo solicitar subsidios pero no preguntaste
+# Todo lo que siempre quisiste saber sobre cómo obtener fondos pero nunca preguntaste
 
 ## Descripción del proyecto
 **Descripción**: Crear colaborativamente un plan de estudios y un programa de acompañamiento para garantizar que el contenido "oculto" esté menos oculto, para que puedan participar de manera justa las organizaciones financiadoras y las potenciales personas beneficiarias de diferentes niveles de ingresos.
